@@ -1,0 +1,2 @@
+# DailyJournal
+My personal blog.
